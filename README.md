@@ -10,7 +10,7 @@ So when you use a command it triggers a function of the server and will execute 
 The client is not needed anymore. You can disconnect the client, the server will still execute it.<br/>
 You can also reconnect while the server is busy with the Arduino.<br/>
 Because the server just sends out every output even if there's no other client.<br/>
-This is also means the client monitors what the server does.<br/>
+This also means the client monitors what the server does.<br/>
 
 Note:<br/>
 I have made some kind of library which is Command.pde.<br/>
