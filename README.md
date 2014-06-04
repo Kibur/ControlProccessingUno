@@ -14,6 +14,6 @@ I have created my own communication protocol which is:
   <li>sr := bit shift to right</li>
   <li>clr := clear</li>
   <li>cnt:delay := counter (counting from 0 to 255)</li>
-  <li>sc:delay := scanner (knight rider like effect without PWN)</li>
+  <li>sc:delay := scanner (knight rider like effect without PWM)</li>
 </ul>
 Note: delays are in milliseconds
